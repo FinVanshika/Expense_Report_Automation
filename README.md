@@ -81,7 +81,6 @@ An interactive dashboard was developed using Pivot Tables, Charts, and Slicers t
 ---
 ## Files Included
 - **Expense_Report_Automation.xlsx** – Main working file with automation logic and dashboard  
-- **Project_Overview.pdf** – Detailed explanation of project objectives, approach, and insights  
 - **Expense_Dashboard_Screenshots.pdf** – Visual snapshots of the interactive dashboard  
 ---
 ## Role Relevance

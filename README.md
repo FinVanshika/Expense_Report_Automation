@@ -1,6 +1,6 @@
 # Expense Report Automation & Interactive Dashboard (Excel)
 ## Dashboard Preview
-![Expense Dashboard](dashboard.png)
+![Expense Dashboard](Dashboard.png)
 ## Project Overview
 This project focuses on automating the validation of corporate expense reports and presenting actionable insights through an interactive Excel dashboard.  
 The solution simulates a real-world finance and expense review process by identifying non-compliant and high-risk transactions and summarizing spend patterns across departments and employees.
